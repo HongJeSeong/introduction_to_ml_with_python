@@ -4,13 +4,14 @@ dependencies:
 - matplotlib
 - numpy
 - pandas
-- python
+- python=3.5
 - scipy
 - ipython-notebook
 - scikit-learn
 - pillow
 - spacy
 - nltk
+- cython
 - pip:
     - watermark
     - graphviz
